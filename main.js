@@ -16,8 +16,8 @@
 
 */
 
-const PATH = "../blog-md/encrypted-article-test/index.md";
-let PASSWORD = "12345678";
+const PATH = "./foobar.txt";
+let PASSWORD = "P@ssw0rd";
 
 const fs = require("fs");
 // prettier-ignore
